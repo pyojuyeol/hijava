@@ -13,7 +13,7 @@ public class Cbvr {
 //		System.out.println("change(i) = " + i);
 		
 		Cbvr cb1 = new Cbvr();
-		System.out.println("cb1 = " + cb1.m);
+//		System.out.println("cb1 = " + cb1.m);
 		
 		change2(cb1);
 		System.out.println("cb2 = " + cb1.m);
